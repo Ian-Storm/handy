@@ -16,6 +16,7 @@ body {
 
 #achtergrond {
 	background-color: rgba(255, 255, 255, 0.5);
+	height: 340px;
 }
 
 header {
@@ -89,16 +90,20 @@ ul {
 
 #hammer {
 	position: relative;
-	top: 1px;
-	right: 1px;
+	top: -70px;
+	right: -10px;
 }
 
 #pincers {
 	position: relative;
+	top: -28px;
+	right: -555px;
 }
 
 #screwdriver {
 	position: relative;
+	top: -130px;
+	right: -340px;
 }
 
 #saw:hover {
@@ -109,14 +114,18 @@ ul {
 
 #hammer:hover {
 	position: relative;
+	top: -75px;
+	right: -15px;
 }
 
 #pincers:hover {
 	position: relative;
+	top: -33px;
+	right: -560px;
 }
 
 #screwdriver:hover {
 	position: relative;
+	top: -135px;
+	right: -345px;
 }
-
-You've been spinning for ##:##:##. 99 60 60
